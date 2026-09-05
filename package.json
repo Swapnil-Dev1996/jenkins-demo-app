@@ -1,0 +1,13 @@
+json
+{
+  "name": "jenkins-demo-app",
+  "version": "1.0.0",
+  "description": "Simple app to learn Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
